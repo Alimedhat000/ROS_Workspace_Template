@@ -1,0 +1,2 @@
+my_first_pkg
+-DCATKIN_DEVEL_PREFIX=/home/ali/Robo_Tech_Workspace/devel -DCMAKE_INSTALL_PREFIX=/home/ali/Robo_Tech_Workspace/install -G Unix Makefiles
