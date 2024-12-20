@@ -1,7 +1,7 @@
 # ROS Package Template
 
 ## Overview
-This ROS package contains a basic publisher-subscriber implementation using Python. The package demonstrates basic ROS communication patterns with a publisher node sending messages and a subscriber node receiving them.
+This ROS package contains a basic publisher-subscriber implementation using Python.
 
 ## Prerequisites
 - ROS (tested on ROS Noetic)
